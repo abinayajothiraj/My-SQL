@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# PyCharm files
+.idea/
+
+# Environment variables
+.env
+
+# Mac/Windows junk files
+.DS_Store
+Thumbs.db
